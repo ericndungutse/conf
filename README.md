@@ -5,11 +5,17 @@
 
 Class project for a Conference management App <br>
 
-## Name: 
+## Name: Eric Tuyizere Ndungutse
 
-## Registration Number: 
+## Registration Number: 220002591
 
-## Department:
+## Department: IT
+
+## Name: NIYONTEZE Felix
+
+## Registration Number: 219015048
+
+## Department: IT
 
 ## Scenario
 
